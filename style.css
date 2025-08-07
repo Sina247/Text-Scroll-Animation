@@ -1,0 +1,22 @@
+.wrapper {
+  color: #191919;
+  padding: 30vw 0;
+}
+
+.textDiv {
+  font-size: 4vmax;
+  text-align: center;
+  padding: 0 7vw;
+  white-space: nowrap;
+  font-family: "Mulish", sans-serif;
+  transition: scale 150ms ease-in-out 0s;
+  cursor: default;
+}
+
+.textDiv:hover {
+  scale: 1.02;
+}
+
+.textDiv::selection {
+  background-color: #eee;
+}
