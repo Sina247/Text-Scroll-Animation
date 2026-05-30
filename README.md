@@ -11,3 +11,8 @@ Text Scroll Animation is a smooth and elegant HTML, CSS and JavaScript effect th
 - 🎨 **Customizable** : Easily tweak animation speed, direction, style via CSS and JavaScript.  
 - 🔌 **Easy Integration** : Simple to add to any website or project with minimal setup.  
 - 🛠️ **Cross Browser Compatible** : Supports all modern browsers seamlessly.
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="935" alt="Screenshot 2026-05-30 103026" src="https://github.com/user-attachments/assets/4b31c3c5-7e43-49c1-8f6c-ba708ca6d238" />
